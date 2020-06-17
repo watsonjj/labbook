@@ -1,0 +1,1 @@
+The purpose of this invesitagion is to revisit the charge and intensity resolution of CHEC, simplify the extraction approach, and consolidate predictions for the SST camera performance. (WIP)
